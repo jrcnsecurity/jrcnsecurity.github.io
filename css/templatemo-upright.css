@@ -237,7 +237,7 @@ img{
 @media (max-width: 1600px) {
 	.tm-col-home-l { width: calc(100% - 250px); }
 
-	.tm-img-home-container {
+	.tm-img-home-container,  .tm-img-service-container {
 		width: 200px;
 		height: 400px;
 	}
