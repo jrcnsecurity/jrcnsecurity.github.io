@@ -217,7 +217,7 @@ img{
 .tm-col-home-l { width: calc(100% - 300px); }
 
 .tm-img-home-container {
-	width: 260px;
+	width: 220px;
 	height: 500px;
 	background: url(../img/guards.jpg) no-repeat left center;
 	background-size: cover;
@@ -226,7 +226,7 @@ img{
 }
 
 .tm-img-service-container {
-	width: 260px;
+	width: 220px;
 	height: 500px;
 	background: url(../img/assembly.jpg) no-repeat left center;
 	background-size: cover;
